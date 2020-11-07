@@ -1,0 +1,50 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   .gitignore
+	new file:   .mvn/wrapper/MavenWrapperDownloader.java
+	new file:   .mvn/wrapper/maven-wrapper.jar
+	new file:   .mvn/wrapper/maven-wrapper.properties
+	new file:   git
+	new file:   mvnw
+	new file:   mvnw.cmd
+	new file:   pom.xml
+	new file:   src/main/java/com/upemor/petsorerest/PetStoreRestApplication.java
+	new file:   src/main/java/com/upemor/petsorerest/component/AdminCreator.java
+	new file:   src/main/java/com/upemor/petsorerest/config/SecurityConfig.java
+	new file:   src/main/java/com/upemor/petsorerest/config/SpringFoxConfig.java
+	new file:   src/main/java/com/upemor/petsorerest/exception/UserErrorException.java
+	new file:   src/main/java/com/upemor/petsorerest/model/Category.java
+	new file:   src/main/java/com/upemor/petsorerest/model/Orderpet.java
+	new file:   src/main/java/com/upemor/petsorerest/model/Pet.java
+	new file:   src/main/java/com/upemor/petsorerest/model/Tag.java
+	new file:   src/main/java/com/upemor/petsorerest/model/User.java
+	new file:   src/main/java/com/upemor/petsorerest/repository/CategoryRepository.java
+	new file:   src/main/java/com/upemor/petsorerest/repository/OrderpetRepository.java
+	new file:   src/main/java/com/upemor/petsorerest/repository/PetRepository.java
+	new file:   src/main/java/com/upemor/petsorerest/repository/TagRepository.java
+	new file:   src/main/java/com/upemor/petsorerest/repository/UserRepository.java
+	new file:   src/main/java/com/upemor/petsorerest/restcontroller/CategoryController.java
+	new file:   src/main/java/com/upemor/petsorerest/restcontroller/OrderController.java
+	new file:   src/main/java/com/upemor/petsorerest/restcontroller/PetController.java
+	new file:   src/main/java/com/upemor/petsorerest/restcontroller/TagController.java
+	new file:   src/main/java/com/upemor/petsorerest/restcontroller/UserController.java
+	new file:   src/main/java/com/upemor/petsorerest/service/CategoryService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/CategoryServiceImpl.java
+	new file:   src/main/java/com/upemor/petsorerest/service/OrderService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/OrderServiceImpl.java
+	new file:   src/main/java/com/upemor/petsorerest/service/PetService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/PetServiceImpl.java
+	new file:   src/main/java/com/upemor/petsorerest/service/TagService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/TagServiceImpl.java
+	new file:   src/main/java/com/upemor/petsorerest/service/UserInfoDetailService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/UserService.java
+	new file:   src/main/java/com/upemor/petsorerest/service/UserServiceImp.java
+	new file:   src/main/resources/application.properties
+	new file:   src/main/resources/diagrams/ERD.drawio
+	new file:   src/main/resources/wireframes/Home.drawio
+	new file:   src/test/java/com/upemor/petsorerest/PetStoreRestApplicationTests.java
+
